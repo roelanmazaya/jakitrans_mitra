@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1098395121304",
+    "firebase_url": "https://jakitrans-ojol-default-rtdb.firebaseio.com",
+    "project_id": "jakitrans-ojol",
+    "storage_bucket": "jakitrans-ojol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098395121304:android:2c6702482e4b7369ce02ed",
+        "android_client_info": {
+          "package_name": "com.jakitrans.cs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098395121304-n83qo3pq4oqoed5o947rpo9ar58jemqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWV50AbHCTUw8ZMcuaRZBAay-fdBqEUtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098395121304-n83qo3pq4oqoed5o947rpo9ar58jemqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098395121304:android:39f94d715a2641b9ce02ed",
+        "android_client_info": {
+          "package_name": "com.jakitrans.dr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098395121304-n83qo3pq4oqoed5o947rpo9ar58jemqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWV50AbHCTUw8ZMcuaRZBAay-fdBqEUtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098395121304-n83qo3pq4oqoed5o947rpo9ar58jemqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098395121304:android:0d025d20e118f978ce02ed",
+        "android_client_info": {
+          "package_name": "com.jakitrans.mc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098395121304-n83qo3pq4oqoed5o947rpo9ar58jemqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWV50AbHCTUw8ZMcuaRZBAay-fdBqEUtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098395121304-n83qo3pq4oqoed5o947rpo9ar58jemqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
