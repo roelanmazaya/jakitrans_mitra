@@ -122,7 +122,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="ic_launcher_merchant" />
+                                      <entry key="outputName" value="ic_launcher_mchnt" />
                                     </map>
                                   </option>
                                 </PersistentState>
