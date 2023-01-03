@@ -9,7 +9,7 @@ import java.util.Locale;
 
 public class Constants {
 
-    private static final String BASE_URL = "https://admin.jakitrans.my.id/";
+    private static final String BASE_URL = "https://admin.jakitrans.co.id/";
     public static final String CONNECTION = BASE_URL + "api/";
     public static final String IMAGESDRIVER = BASE_URL + "images/fotodriver/";
     public static final String IMAGESMERCHANT = BASE_URL + "images/merchant/";
