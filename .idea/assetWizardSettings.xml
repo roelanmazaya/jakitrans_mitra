@@ -91,6 +91,7 @@
                                               <map>
                                                 <entry key="color" value="000000" />
                                                 <entry key="imagePath" value="$USER_HOME$/Downloads/iconmerchant.png" />
+                                                <entry key="scalingPercent" value="66" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -122,7 +123,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="ic_launcher_mchnt" />
+                                      <entry key="outputName" value="ic_launcher_mitra" />
                                     </map>
                                   </option>
                                 </PersistentState>
